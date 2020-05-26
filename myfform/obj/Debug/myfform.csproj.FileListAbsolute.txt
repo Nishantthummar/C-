@@ -1,0 +1,12 @@
+C:\Users\ab\source\repos\myfform\bin\Debug\myfform.exe.config
+C:\Users\ab\source\repos\myfform\bin\Debug\myfform.exe
+C:\Users\ab\source\repos\myfform\bin\Debug\myfform.pdb
+C:\Users\ab\source\repos\myfform\obj\Debug\myfform.csprojAssemblyReference.cache
+C:\Users\ab\source\repos\myfform\obj\Debug\myfform.Properties.Resources.resources
+C:\Users\ab\source\repos\myfform\obj\Debug\myfform.csproj.GenerateResource.cache
+C:\Users\ab\source\repos\myfform\obj\Debug\myfform.csproj.CoreCompileInputs.cache
+C:\Users\ab\source\repos\myfform\obj\Debug\myfform.exe
+C:\Users\ab\source\repos\myfform\obj\Debug\myfform.pdb
+C:\Users\ab\source\repos\myfform\obj\Debug\myfform.Form2.resources
+C:\Users\ab\source\repos\myfform\obj\Debug\myfform.Form3.resources
+C:\Users\ab\source\repos\myfform\obj\Debug\myfform.LoginForm.resources
