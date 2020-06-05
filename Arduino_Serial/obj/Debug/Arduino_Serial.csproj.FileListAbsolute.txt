@@ -1,0 +1,10 @@
+C:\Users\ab\source\repos\Arduino_Serial\bin\Debug\Arduino_Serial.exe.config
+C:\Users\ab\source\repos\Arduino_Serial\bin\Debug\Arduino_Serial.exe
+C:\Users\ab\source\repos\Arduino_Serial\bin\Debug\Arduino_Serial.pdb
+C:\Users\ab\source\repos\Arduino_Serial\obj\Debug\Arduino_Serial.csprojAssemblyReference.cache
+C:\Users\ab\source\repos\Arduino_Serial\obj\Debug\Arduino_Serial.Serial_Com.resources
+C:\Users\ab\source\repos\Arduino_Serial\obj\Debug\Arduino_Serial.Properties.Resources.resources
+C:\Users\ab\source\repos\Arduino_Serial\obj\Debug\Arduino_Serial.csproj.GenerateResource.cache
+C:\Users\ab\source\repos\Arduino_Serial\obj\Debug\Arduino_Serial.csproj.CoreCompileInputs.cache
+C:\Users\ab\source\repos\Arduino_Serial\obj\Debug\Arduino_Serial.exe
+C:\Users\ab\source\repos\Arduino_Serial\obj\Debug\Arduino_Serial.pdb
