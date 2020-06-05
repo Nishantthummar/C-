@@ -1,0 +1,10 @@
+C:\Users\ab\source\repos\header\bin\Debug\header.exe.config
+C:\Users\ab\source\repos\header\bin\Debug\header.exe
+C:\Users\ab\source\repos\header\bin\Debug\header.pdb
+C:\Users\ab\source\repos\header\obj\Debug\header.csprojAssemblyReference.cache
+C:\Users\ab\source\repos\header\obj\Debug\header.Properties.Resources.resources
+C:\Users\ab\source\repos\header\obj\Debug\header.csproj.GenerateResource.cache
+C:\Users\ab\source\repos\header\obj\Debug\header.csproj.CoreCompileInputs.cache
+C:\Users\ab\source\repos\header\obj\Debug\header.exe
+C:\Users\ab\source\repos\header\obj\Debug\header.pdb
+C:\Users\ab\source\repos\header\obj\Debug\header.Form1.resources
