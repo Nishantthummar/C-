@@ -1,0 +1,10 @@
+C:\Users\ab\source\repos\DataHeader\bin\Debug\DataHeader.exe.config
+C:\Users\ab\source\repos\DataHeader\bin\Debug\DataHeader.exe
+C:\Users\ab\source\repos\DataHeader\bin\Debug\DataHeader.pdb
+C:\Users\ab\source\repos\DataHeader\obj\Debug\DataHeader.csprojAssemblyReference.cache
+C:\Users\ab\source\repos\DataHeader\obj\Debug\DataHeader.Properties.Resources.resources
+C:\Users\ab\source\repos\DataHeader\obj\Debug\DataHeader.csproj.GenerateResource.cache
+C:\Users\ab\source\repos\DataHeader\obj\Debug\DataHeader.csproj.CoreCompileInputs.cache
+C:\Users\ab\source\repos\DataHeader\obj\Debug\DataHeader.exe
+C:\Users\ab\source\repos\DataHeader\obj\Debug\DataHeader.pdb
+C:\Users\ab\source\repos\DataHeader\obj\Debug\DataHeader.Form1.resources
